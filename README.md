@@ -4,8 +4,8 @@
 DevBoard is an interactive engineering workflow console engineered with React. It organizes nested task array data structures, driving state lane shifts (Backlog, In Progress, Verified Done) and processing real-time computed velocity values while caching all mutations locally via asynchronous `localStorage` synchronization pipelines.
 ## Preview
 --------------------------------------------------------------------------
-![]()
-![]()
+![](devb.png)
+![](devb2.png)
 
 ##  Technical Highlights Tested
 -----------------------------------------------------------------------------
@@ -18,3 +18,5 @@ DevBoard is an interactive engineering workflow console engineered with React. I
 
 1. Install dependencies: `npm install`
 2. Run development workspace: `npm run dev`
+
+----------------------------------------------------------------------------
