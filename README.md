@@ -19,3 +19,4 @@ DevBoard is an interactive engineering workflow console engineered with React. I
 1. Install dependencies: `npm install`
 2. Run development workspace: `npm run dev`
 
+----------------------------------------------------------------------------
