@@ -1,4 +1,4 @@
-#  DevBoard — Professional Agile Kanban Deck & Workflow Console
+#  DevBoard — Professional Deck & Workflow Console
 ---------------------------------------------------------------------------
 
 DevBoard is an interactive engineering workflow console engineered with React. It organizes nested task array data structures, driving state lane shifts (Backlog, In Progress, Verified Done) and processing real-time computed velocity values while caching all mutations locally via asynchronous `localStorage` synchronization pipelines.
