@@ -5,7 +5,7 @@ DevBoard is an interactive engineering workflow console engineered with React. I
 ## Preview
 --------------------------------------------------------------------------
 ![]()
-!
+![]
 ##  Technical Highlights Tested
 *  **State Mutation Transitions:** Implements immutable item transformations map handlers to transition status states across separate layout column tracks.
 *  **Reactive Mathematical Metrics:** Tracks and delivers aggregate progress percentages live based on real-time task lane distribution math without render cycle delays.
